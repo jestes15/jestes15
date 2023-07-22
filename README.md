@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jestes15)]
+
+<!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **jestes15/jestes15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
