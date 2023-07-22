@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jestes15&langs_count=10&layout=compact)
 
-![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jestes15&layout=compact)
+![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jestes15&layout=compact)
 
 <!--
 **jestes15/jestes15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
