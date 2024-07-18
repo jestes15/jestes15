@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jestes15)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jestes15&langs_count=10&layout=compact)
+- I am currently working as an Electrical Engineer at the Naval Research Lab in Washington, D.C.
+- In my spare time, I build embedded systems, preferably SMT32 based systems, and write the firmware for these systems.
+- 📫 If you want to talk about a project, email me @ 3553.0107.6643.934sin@gmail.com and I'll be happy to talk!
 
 ![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jestes15&layout=compact)
 
+[![wakatime](https://wakatime.com/badge/user/1f521dcf-b445-4fa3-9daf-c3d539d7d8fc.svg)](https://wakatime.com/@1f521dcf-b445-4fa3-9daf-c3d539d7d8fc)
 <!--
 **jestes15/jestes15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
