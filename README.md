@@ -4,7 +4,7 @@
 - In my spare time, I write software for embedded systems like the Cyclone V, STM32, and MSP430.
 - 📫 If you want to talk about a project, email me @ estesjn2020@gmail.com and I'll be happy to talk!
 
-![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jestes15&layout=compact)
+![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jestes15)
 
 [![wakatime](https://wakatime.com/badge/user/1f521dcf-b445-4fa3-9daf-c3d539d7d8fc.svg)](https://wakatime.com/@1f521dcf-b445-4fa3-9daf-c3d539d7d8fc)
 <!--
