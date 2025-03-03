@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - I am currently working as an Electrical Engineer at the Naval Research Lab in Washington, D.C.
-- In my spare time, I build embedded systems, preferably SMT32 based systems, and write the firmware for these systems.
-- 📫 If you want to talk about a project, email me @ 3553.0107.6643.934sin@gmail.com and I'll be happy to talk!
+- In my spare time, I write software for embedded systems like the Cyclone V, STM32, and MSP430.
+- 📫 If you want to talk about a project, email me @ estesjn2020@gmail.com and I'll be happy to talk!
 
 ![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jestes15&layout=compact)
 
