@@ -4,7 +4,7 @@
 - 📫 If you want to talk about a project, email me @ estesjn2020@gmail.com and I'll be happy to talk!
 
 <!-- ![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jestes15) -->
-![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jestes15&layout=compact)
+![Joshua's wakatime stats](https://github-stats.joshua-estes.dev/api/wakatime?username=jestes15&layout=compact)
 
 [![wakatime](https://wakatime.com/badge/user/1f521dcf-b445-4fa3-9daf-c3d539d7d8fc.svg)](https://wakatime.com/@1f521dcf-b445-4fa3-9daf-c3d539d7d8fc)
 <!--
