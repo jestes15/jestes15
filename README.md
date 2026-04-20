@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- I write software for embedded systems like the Cyclone V, STM32, and MSP430 and high-performance systems with CUDA GPUs.
-- 📫 If you want to talk about a project, email me @ estesjn2020@gmail.com and I'll be happy to talk!
+- I write software for embedded systems like the Cyclone V, STM32, and MSP430 and high-performance systems with NVIDIA GPUs.
 
 <!-- ![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jestes15) -->
 ![Joshua's wakatime stats](https://github-stats.joshua-estes.dev/api/wakatime?username=jestes15&layout=compact)
