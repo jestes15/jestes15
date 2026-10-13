@@ -5,7 +5,7 @@
 <!-- ![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jestes15) -->
 ![Joshua's wakatime stats](https://github-stats.joshua-estes.dev/api/wakatime?username=jestes15&layout=compact)
 
-[![wakatime](https://wakatime.com/badge/user/1f521dcf-b445-4fa3-9daf-c3d539d7d8fc.svg)](https://wakatime.com/@1f521dcf-b445-4fa3-9daf-c3d539d7d8fc)
+[![wakatime](https://wakatime.com/badge/user/1f521dcf-b445-4fa3-9daf-c3d539d7d8fc.svg)](https://wakatime.com/@jestes15)
 <!--
 **jestes15/jestes15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
